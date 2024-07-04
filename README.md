@@ -8,6 +8,7 @@
 </div>
 
 ###
+<h3 align="left">🔥   Working Languages:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -32,6 +33,7 @@
 </div>
 
 ###
+<h3 align="left">🔥   My Socials :</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/alijafarzadeh.7?igsh=MXRraHY5YXRvMWE2dA==" target="_blank">
