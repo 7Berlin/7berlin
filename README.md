@@ -1,6 +1,5 @@
 
 <h2 align="center">Hi, My name is Ali and im from Iran.</h2>
-<br>
 
 <br><h3 align="center"> ⬇ Working Languages ⬇ </h3><br>
 
@@ -52,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7berlin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7berlin&" alt="7berlin" /></p>
 </div>
