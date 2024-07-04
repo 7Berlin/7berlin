@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
-###
 <br><h3 align="center"> ⬇ My Socials ⬇ </h3><br>
 
 <div align="center">
@@ -50,14 +49,11 @@
   </a>
 </div>
 
-###
 
 
-
-###
 <br><h3 align="center"> ⬇ Mt Stats ⬇ </h3><br>
 
-###
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7berlin&" alt="7berlin" /></p>
@@ -69,13 +65,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/7berlin/count.svg?"  />
 </div>
-###
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7berlin&show_icons=true&locale=en&layout=compact" alt="7berlin" /></p>
-
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7berlin" alt="7berlin" /></a> </p>
