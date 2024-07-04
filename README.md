@@ -1,4 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h2 align="center">Hi, My name is Ali and im from Iran.</h2>
 <br>
