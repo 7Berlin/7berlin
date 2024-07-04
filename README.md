@@ -8,7 +8,7 @@
 </div>
 
 ###
-<br><br><h3 align="center"> ⬇ Working Languages ⬇ </h3><br><br>
+<br><h3 align="center"> ⬇ Working Languages ⬇ </h3><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
