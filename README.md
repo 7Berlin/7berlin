@@ -50,9 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/7berlin/count.svg?"  />
-</div>
+
 
 ###
 <br><h3 align="center"> ⬇ Mt Stats ⬇ </h3><br>
@@ -66,6 +64,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/7berlin/7berlin/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/7berlin/count.svg?"  />
+</div>
 ###
