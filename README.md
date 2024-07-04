@@ -68,5 +68,5 @@
 
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7berlin" alt="7berlin" width="900" /></a> </p></div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7berlin" alt="7berlin" width="750" /></a> </p></div>
 
